@@ -1,5 +1,9 @@
 # moDRACfucker
 
+## Requirements
+
+* libssh
+
 ## Usage
 
 ```
